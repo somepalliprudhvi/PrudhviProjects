@@ -9,7 +9,8 @@ Re<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Maste
 <body>
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head runat="server">
-        <title></title>
+        <title> Register Screen </title>
+
         <asp:ContentPlaceHolder ID="head" runat="server">
         </asp:ContentPlaceHolder>
     </head>

@@ -30,3 +30,35 @@
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.dll
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.pdb
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Dotnetcommunity.dll.config
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Dotnetcommunity.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Dotnetcommunity.pdb
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.Agent.Intercept.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.DependencyCollector.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.PerfCounterCollector.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.Web.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.WindowsServer.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.ApplicationInsights.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.DependencyCollector.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.Web.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.AI.WindowsServer.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.ApplicationInsights.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.dll
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.pdb
+\\vmware-host\Shared Folders\Desktop\Git Hub\PrudhviProjects\Dotnetcommunity\Dotnetcommunity\obj\Debug\Dotnetcommunity.csprojResolveAssemblyReference.cache

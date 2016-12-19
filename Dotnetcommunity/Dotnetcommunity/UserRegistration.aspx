@@ -2,36 +2,42 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="body" runat="server">
-    <script>
-   
-    </script>
+   <h2>User Registration </h2> 
     <div>
  <table>
      <tr>
          <td>
-             hello this registration page
+             Login Id<asp:Label ID="lblId" runat="server"></asp:Label>
          </td>
-           <td>
-             hello this registration page 1
-               this is update
-
-
-        
-         </td>
+      
      </tr>
       <tr>
          <td>
-             hello this registration page 11
-
-        
+             Name<asp:TextBox ID="txtName" runat="server" ></asp:TextBox>        
          </td>
-           <td>
-             hello this registration page 12
-
-        
-         </td>
+           
      </tr>
+          <tr>
+         <td>
+             UserName<asp:TextBox ID="TxtUsername" runat="server" ></asp:TextBox>        
+         </td>
+           
+     </tr>
+
  </table>
+        <div>
+            Password<asp:TextBox ID="Txtpassword" runat="server" ></asp:TextBox>        
+        </div>
+        <div>
+            Security Question <asp:DropDownList ID="ddlQuestion" runat="server"></asp:DropDownList>
+        </div>
+        <div>
+            Answer<asp:TextBox ID="TxtAnswer" runat="server" ></asp:TextBox>   
+        </div>
+        <div>
+            <asp:Button ID="btnSubmit" runat="server"  Text="Submit"/>
+
+        </div>
         </div>
                   
 
