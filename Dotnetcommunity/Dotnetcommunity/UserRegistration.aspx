@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="body" runat="server">
-   <h2>User Registration </h2> 
+    <h2>User Registration </h2> 
     <div>
  <table>
      <tr>
@@ -35,7 +35,7 @@
             Answer<asp:TextBox ID="TxtAnswer" runat="server" ></asp:TextBox>   
         </div>
         <div>
-            <asp:Button ID="btnSubmit" runat="server"  Text="Submit"/>
+            <asp:Button ID="btnSubmit" runat="server"  Text="Submit" OnClick="btnSubmit_Click"/>
 
         </div>
         </div>
