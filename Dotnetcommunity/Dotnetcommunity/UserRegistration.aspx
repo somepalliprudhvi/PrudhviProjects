@@ -26,19 +26,25 @@
 
  </table>
         <div>
-            Password<asp:TextBox ID="Txtpassword" runat="server" ></asp:TextBox>        
+            Password<asp:TextBox ID="Txtpassword" runat="server" TextMode="Password" ></asp:TextBox>        
         </div>
         <div>
             Security Question <asp:DropDownList ID="ddlQuestion" runat="server"></asp:DropDownList>
         </div>
         <div>
             Answer<asp:TextBox ID="TxtAnswer" runat="server" ></asp:TextBox>   
-        </div>
+            <br />
+            Status:<asp:TextBox ID="Txtstatus" runat="server"></asp:TextBox> </div>
         <div>
             <asp:Button ID="btnSubmit" runat="server"  Text="Submit" OnClick="btnSubmit_Click"/>
 
         </div>
         </div>
                   
+        <div>
+            <asp:Label ID="lblDisplay" runat="server">
+
+            </asp:Label>
+        </div>
 
 </asp:Content>
