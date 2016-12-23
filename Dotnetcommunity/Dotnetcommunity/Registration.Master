@@ -1,7 +1,4 @@
-﻿
-
-
-Re<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Master.cs" Inherits="Dotnetcommunity.MasterPage2" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Master.cs" Inherits="Dotnetcommunity.MasterPage2" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +6,7 @@ Re<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Maste
 <body>
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head runat="server">
-        <title> Register Screen </title>
+        <title>Register Screen </title>
 
         <asp:ContentPlaceHolder ID="head" runat="server">
         </asp:ContentPlaceHolder>
@@ -17,34 +14,34 @@ Re<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Registration.Maste
     <body>
         <form id="form1" runat="server">
 
-            <table style="font-family: Arial">
-                <tr>
-                    <td colspan="2" style="width: 800px; height: 80px; background-color: #3399FF; text-align: center">
-                        <h1>.Net Comunity Project   
-                        </h1>
-                    </td>
-                </tr>
-                <tr >
-                    <td style=" background-color: #67654F; width: 150px">
-                        <asp:Button ID="btnHome" Text="Home" runat="server"/><br />
-                        <asp:Button ID="BtnAboutUs" Text="About Us" runat="server"  /><br />
-                        <asp:Button ID="BtnContactUs" Text="ContactUs" runat="server" /><br />
-                        <asp:Button ID="BtnRegister" Text="Register" runat="server" />
 
-                    </td>
-                    <td style="height: 500px; background-color: #876543; width: 650px">
-                      <div>
-                            <asp:ContentPlaceHolder ID="body" runat="server">
-                            </asp:ContentPlaceHolder>
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" style="background-color: #3399FF; text-align: center">
-                        <b>Copy right @2016 Prudhvi raj  somepalli  </b>
-                    </td>
-                </tr>
-            </table>
+                <table style="font-family: Arial">
+                    <tr>
+                        <td colspan="2" style="width: 800px; height: 80px; background-color: #3399FF; text-align: center">
+                            <h1>.Net Comunity Project   
+                            </h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background-color: #67654F; width: 150px">
+                            <asp:Button ID="btnHome" Text="Home" runat="server" /><br />
+                            <asp:Button ID="BtnAboutUs" Text="About Us" runat="server" /><br />
+                            <asp:Button ID="BtnContactUs" Text="ContactUs" runat="server" /><br />
+                            <asp:Button ID="BtnRegister" Text="Register" runat="server" />
+                        </td>
+                        <td style="height: 500px; background-color: #876543; width: 650px">
+                            <div>
+                                <asp:ContentPlaceHolder ID="body" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="background-color: #3399FF; text-align: center">
+                            <b>Copy right @2016 Prudhvi raj  somepalli  </b>
+                        </td>
+                    </tr>
+                </table>
 
 
         </form>

@@ -1,50 +1,50 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Registration.Master" AutoEventWireup="true" CodeBehind="UserRegistration.aspx.cs" Inherits="Dotnetcommunity.UserRegistration" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="body" runat="server">
-    <h2>User Registration </h2> 
+    <h2>User Registration </h2>
+    <fieldset><legend>Registration</legend>
     <div>
- <table>
-     <tr>
-         <td>
-             Login Id<asp:Label ID="lblId" runat="server"></asp:Label>
-         </td>
-      
-     </tr>
-      <tr>
-         <td>
-             Name<asp:TextBox ID="txtName" runat="server" ></asp:TextBox>        
-         </td>
-           
-     </tr>
-          <tr>
-         <td>
-             UserName<asp:TextBox ID="TxtUsername" runat="server" ></asp:TextBox>        
-         </td>
-           
-     </tr>
+    
+            <table>
+                <tr>
+                    <td>Login Id<asp:Label ID="lblId" runat="server"></asp:Label>
+                    </td>
 
- </table>
-        <div>
-            Password<asp:TextBox ID="Txtpassword" runat="server" TextMode="Password" ></asp:TextBox>        
-        </div>
-        <div>
-            Security Question <asp:DropDownList ID="ddlQuestion" runat="server"></asp:DropDownList>
-        </div>
-        <div>
-            Answer<asp:TextBox ID="TxtAnswer" runat="server" ></asp:TextBox>   
-            <br />
-            Status:<asp:TextBox ID="Txtstatus" runat="server"></asp:TextBox> </div>
-        <div>
-            <asp:Button ID="btnSubmit" runat="server"  Text="Submit" OnClick="btnSubmit_Click"/>
+                </tr>
+                <tr>
+                    <td>Name<asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+                    </td>
 
-        </div>
-        </div>
-                  
-        <div>
-            <asp:Label ID="lblDisplay" runat="server">
+                </tr>
+                <tr>
+                    <td>UserName<asp:TextBox ID="TxtUsername" runat="server"></asp:TextBox>
+                    </td>
 
-            </asp:Label>
-        </div>
+                </tr>
 
+            </table>
+            <div>
+                Password<asp:TextBox ID="Txtpassword" runat="server" TextMode="Password"></asp:TextBox>
+            </div>
+            <div>
+                Security Question
+                <asp:DropDownList ID="ddlQuestion" runat="server"></asp:DropDownList>
+            </div>
+            <div>
+                Answer<asp:TextBox ID="TxtAnswer" runat="server"></asp:TextBox>
+                <br />
+                Status:<asp:TextBox ID="Txtstatus" runat="server"></asp:TextBox>
+            </div>
+            <div>
+                <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
+
+            </div>
+    </div>   
+    <div>
+        <asp:Label ID="lblDisplay" runat="server">
+        </asp:Label>
+    </div>
+      </fieldset>
 </asp:Content>
